@@ -23,10 +23,9 @@ There are four different stages of active membership.
 - Senior Member
 
 ### 3.2 - Gaining Membership
+Any person wishing to join Synixe Tactical will be able to join as a recruit.
 
-Any person wishing to join Synixe will be able to join as a recruit.
-
-Persons interested in joining Synixe will become a Junior Member after attending 3 sanctioned events. The person must then go through a minimum 3 month probabtion period. After this period as a Junior Member, the Senior Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
+Persons interested in joining Synixe Tactical will become a Junior Member after attending 3 sanctioned events. The person must then go through a minimum 3 month probabtion period. After this period as a Junior Member, the Senior Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
 
 ### 3.3 - Senior Members
 
