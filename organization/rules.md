@@ -10,7 +10,7 @@
 
 ## Rule 2 - Servers
 
-1. All dedicated servers used by the community will be hosted or approved by a member of the Executive Board.
+1. All dedicated servers used by the community will be hosted or approved by a staff member.
 
 2. The TeamSpeak server IP address shall not be shared until required.
 
@@ -75,19 +75,15 @@ Reposting content that you have previously posted is not allowed and may be remo
 
 3. Any attempt to gain access to administrative tools will result in an immediate ban.
 
-4. The use of external communication platforms (Steam, Discord) is considered a violation of Rule 4.1 unless authorized by an Executive member or a game master.
+4. The use of external communication platforms (Steam, Discord) is considered a violation of Rule 4.1 unless authorized by a staff member or a game master.
 
 ## Rule 6 - Dual Clanning
 
-1. Members of Synixe Tactical that hold a position on the Executive Board are asked to refrain from holding a leadership role in other communities. If they wish to hold a leadership position in another community we ask that they resign from their position in Synixe Tactical.
-
-2. All members not on the Executive Board are free to have a leadership role in other communities.
-
-3. All members are free to participate in the event of other communities.
+All members are free to participate in the other communities.
 
 ## Rule 7 - Conduct
 
-All members of Synixe Tactical are expected to treat their fellow members in a considerate way at all times. Disagreements are fine, hostility is not. Disruptive behavior or any action that degrades the quality of the community for other members at the discretion of the Executive Board will not be tolerated and can be treated as a violation of Section 3.
+All members of Synixe Tactical are expected to treat their fellow members in a considerate way at all times. Disagreements are fine, hostility is not. Disruptive behavior or any action that degrades the quality of the community for other members at the discretion of the staff will not be tolerated and can be treated as a violation of Section 3.
 
 We are a casual realism unit. We have no attendance requirements, mandatory training or strict procedures. We do however expect that you take the mission seriously and attempt to complete objectives tactically.
 
