@@ -4,8 +4,8 @@
   * [Rules](organization/rules.md)
 
 * Getting Started
-  * [Mods](getting-started/mods.md)
-  * [Your First Mission](getting-started/first-mission.md)
+  * [Mods](starting/mods.md)
+  * [Your First Mission](starting/first-mission.md)
 
 * Operations
   * [Terminology](operations/terminology.md)
