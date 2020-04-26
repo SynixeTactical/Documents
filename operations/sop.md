@@ -88,10 +88,10 @@ The operation lead is responsible for dividing up members into squads.
 
 The maximum squad size is 8, and should be no smaller than 4. Each squad is made up of 2 man teams.
 
-- <span style="color:red">Lead</span>
+- <span style="color:#999900">Lead</span>
 - <span style="color:green">Fireteam</span>
 - <span style="color:blue">Fireteam</span>
-- <span style="color:#999900">Medic</span>
+- <span style="color:red">Medic</span>
 
 Each pair should have a "primary", the person responsible for responding for that team on the radio.
 
