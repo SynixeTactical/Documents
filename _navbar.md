@@ -12,13 +12,15 @@
   * [SOP](operations/sop.md)
 
 * Guides
+  * [Grenadier](guides/grenadier.md)
   * [Operator](guides/operator.md)
   * [Radios](guides/radios.md)
-  * [Medic](certs/medic.md)
-  * [EOD](certs/eod.md)
+  * [Medic](guides/medic.md)
+  * [EOD](guides/eod.md)
   * [Marksman](guides/marksman)
 
 * Certifications
+  * [Grenadier](certs/grenadier.md)
   * [Medic](certs/medic.md)
   * [EOD](certs/eod.md)
   * [Marksman](guides/marksman)

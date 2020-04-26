@@ -17,7 +17,7 @@ Operators are not allowed to be deployed without meeting these requirements. You
 - 90 Rounds
 - 5 Bandages
 - 1 Painkillers
-- Radio (Usually AN/PRC-152)
+- Radio (Usually AN/PRC-148)
 - Map
 - GPS
 
@@ -97,7 +97,7 @@ Each pair should have a "primary", the person responsible for responding for tha
 
 #### Specialized Units
 
-Squads should try to spread out specialized units when possible. Having too many specialized units in a squad reduceds the ability to adapt to a wide range of combat scenarios. Specialized operators should be paired with non-specialized operators. Ultimately the organization of the pairs is up to the mission requirements determined by the SL. Each squad should try to follow the specified limits unless dicated otherwise by the mission.
+Squads should try to spread out specialized units when possible. Having too many specialized units in a squad reduces the ability to adapt to a wide range of combat scenarios. Specialized operators should be paired with non-specialized operators. Ultimately the organization of the pairs is up to the mission requirements determined by the SL. Each squad should try to follow the specified limits unless dicated otherwise by the mission.
 
 - 1 Medic
 - 1 EOD / Engineer / UAV Operator
