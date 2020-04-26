@@ -12,8 +12,8 @@
   * [SOP](operations/sop.md)
 
 * Guides
-  * [Grenadier](guides/grenadier.md)
   * [Operator](guides/operator.md)
+  * [Grenadier](guides/grenadier.md)
   * [Radios](guides/radios.md)
   * [Medic](guides/medic.md)
   * [EOD](guides/eod.md)

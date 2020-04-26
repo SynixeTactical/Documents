@@ -18,5 +18,38 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script>
+    function get_text(el) {
+      let ret = "";
+      let length = el.childNodes.length;
+      for(let i = 0; i < length; i++) {
+        let node = el.childNodes[i];
+        if(node.nodeType != 8) {
+          ret += node.nodeType != 1 ? node.nodeValue : get_text(node);
+        }
+      }
+      return ret;
+    }
+
+    setTimeout(function() {
+      let content = document.getElementsByClassName("content")[0];
+      let newElement = document.createElement("h4");
+      newElement.id = "readingTime";
+      newElement.className = "markdown-section";
+      newElement.style = "margin-bottom: -60px";
+      content.insertBefore(newElement, content.firstChild);
+    }, 50);
+
+    let lastTime = 0;
+
+    setInterval(function() {
+      let words = get_text(document.getElementById("main"));
+      let time = Math.round(words.split(' ').length / 130);
+      if (time != lastTime) {
+        document.getElementById("readingTime").innerHTML = "Reading Time: " + time + ((time == 1) ? " minute" : " minutes");
+        lastTime = time;
+      }
+    }, 50);
+  </script>
 </body>
 </html>
