@@ -11,9 +11,9 @@
         - <span style="color:#999900">2 Firefights</span>
         - <span style="color:green">3+ Firefights</span>
     - Casualties:
-        - <span style="color:red">Not combat capable (<45%)</span>
-        - <span style="color:#999900">Combat capability degraded (55%-75%)</span>
-        - <span style="color:green">Ready for combat (75%-100%)</span>
+        - <span style="color:red">Not combat capable (<45% personnel)</span>
+        - <span style="color:#999900">Combat capability degraded (55%-75% personnel)</span>
+        - <span style="color:green">Ready for combat (75%-100% personnel)</span>
     - Equipment
         - <span style="color:red">Out of mission critical equipment</span>
         - <span style="color:#999900">Low on mission critical equipment</span>
@@ -25,10 +25,12 @@
 ## Tactics
 
 ### Target 
-    - A hostile enemy. This term is used to note that a hostile is located in a particular direction/distance from the team.
+1. A potentially hostile enemy. 
+    - Used to note a hostile in a particular bearing/range from the unit.
 
 ### Contact 
-    - A call for engagement by the enemy. Contact is the natural progression of a target who has become hostile to the unit or friendlies. 
+1. An enemy unit which is engaging friendlies.
+    - Contact is the natural progression of a target who has become hostile to the unit or friendlies. 
 
 ### A.D.D.
 1. Alert, Direction, Distance
@@ -51,7 +53,7 @@
     - Without specific briefs, ROE should be that targets should meet the threat triangle before engagement.
 
 ### Threat Triangle 
-1. A set of three rules denoting if a unit is a target to or if they cannot be engaged.
+1. A set of three rules denoting if a unit can be engaged.
     - A target must have capability (They possess a weapon).
     - A target must have the ability (Their weapon can cause harm to you at their engagement range).
     - A target must have intent (They must show their intent by actively attempting to point/raise the weapon at you or friendlies).
@@ -97,4 +99,4 @@
     - A term denoting that friendly fire ocurred. 
 
 ### Blue Flagging 
-    - A term describing sweeping your barrel across a friendly in your path. This should never happen.en.iendly in your path. This should never happen.d never happen.
+    - A term describing sweeping your barrel across a friendly in your path. This should never happen.appen.en.iendly in your path. This should never happen.d never happen.
