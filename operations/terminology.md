@@ -22,16 +22,12 @@
 2. Advanced Combat Environment (Arma 3 Mod)
     - The awesome mod that we use.
 
-
-
-
 ## Tactics
 
-### Target vs Contact 
-1. Target 
+### Target 
     - A hostile enemy. This term is used to note that a hostile is located in a particular direction/distance from the team.
 
-2. Contact 
+### Contact 
     - A call for engagement by the enemy. Contact is the natural progression of a target who has become hostile to the unit or friendlies. 
 
 ### A.D.D.
@@ -50,12 +46,12 @@
 1. A concept in which everyone in the unit covers a direction around the units space.
     - This ensures no unseen hostiles can sneak up and compromise the unit's security.
 
-### ROE 
-1. Rules of Engagement 
-    - Rules defined, usually based on the Area of Operations and spcific mission requirements, which layout the who/what/when/where/why of how combat will be conducted by BLUFOR. 
+### Rules of Engagement 
+1. Rules defining the who/what/when/where/why of how combat will be conducted by BLUFOR. 
     - Without specific briefs, ROE should be that targets should meet the threat triangle before engagement.
 
-2. Threat Triangle 
+### Threat Triangle 
+1. A set of three rules denoting if a unit is a target to or if they cannot be engaged.
     - A target must have capability (They possess a weapon).
     - A target must have the ability (Their weapon can cause harm to you at their engagement range).
     - A target must have intent (They must show their intent by actively attempting to point/raise the weapon at you or friendlies).
@@ -97,9 +93,8 @@
 
 ## Other 
 
-### Friendly Fire
-1. Blue on Blue 
+### Blue on Blue 
     - A term denoting that friendly fire ocurred. 
 
-2. Blue Flagging 
-    - A term describing sweeping your barrel across a friendly in your path. This should never happen.d never happen.
+### Blue Flagging 
+    - A term describing sweeping your barrel across a friendly in your path. This should never happen.en.iendly in your path. This should never happen.d never happen.
