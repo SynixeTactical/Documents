@@ -30,18 +30,18 @@
 
 ### Contact 
 1. An enemy unit which is engaging friendlies.
-    - Contact is the natural progression of a target who has become hostile to the unit or friendlies. 
+    - Contact is the natural progression of a target who has become aware of friendlies and begun engaging. 
 
 ### A.D.D.
 1. Alert, Direction, Distance
-    - A quick verbal warning given to all members, usually over a radio indicating a hostile contact spotted. 
+    - A quick verbal warning given to all members indicating a hostile contact spotted. 
     - Examples:
         - "4 man patrol, 1-6-5, 100 meters moving toward us!"
         - "2 technicals, 2-8-3, 500 meters and closing!"
         - "Contact! Squad, East, distance close!" 
     - Key points:
         - Don't use "to my right" or "behind me". These terms are confusing to a group. Use cardinal directions, or bearings. Whichever is more appropriate. 
-        - Convey via appropriate medium. If you are near everyone who would be able to engage, yell through local voice. If your entire squad is spread out, use radio.
+        - Convey via appropriate medium. If you are near everyone who would be able to engage, talk locally. If your entire squad is spread out, use radio.
         - In the event contact is called out, everyone should relay that callout in local chat to everyone near them. 
 
 ### 360 Degree Security 
@@ -88,6 +88,9 @@
     - Used by either party in a radio conversation to identify the end of the transmitted message, but not the conversation.
 6. "Repeat" 
     - Used leadership roles or JTACs to request a repeat fire of the previous type. Applies to all supporting assets.
+
+7. "Actual"
+    - Used by appending to a callsign to denote it is the leading member of that unit using the radio.
 
 ### Radios
 1. PRC-148 
