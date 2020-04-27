@@ -8,7 +8,7 @@
 
 - Junior Member or higher
 - Required Reading:
-    - [Grenadier Guide](guides/grenadier.md)
+  - [Grenadier Guide](guides/grenadier.md)
 
 ## Theoretical Exam
 
