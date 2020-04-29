@@ -12,7 +12,7 @@ If you already have the Synixe mods, skip to step 3. You will need to add a sepe
 
 ![add repo](swifty-images/swifty_1.png)
 
-4. Enter `http://repo.synixe.com` as the repo address
+4. Enter `https://tac.synixe.com/repo` as the repo address
 
 ![enter address](swifty-images/swifty_2.png)
 
@@ -20,16 +20,12 @@ If you already have the Synixe mods, skip to step 3. You will need to add a sepe
 
 ![details](swifty-images/swifty_3.png)
 
-6. Under `Optional Addons`, enable `@milgearpack`, `@pmc`, and `@synixe_mgp`
-
-![optionals](swifty-images/swifty_4.png)
-
-7. Close the Repository Settings window
+6. Close the Repository Settings window
 
 ![close](swifty-images/swifty_5.png)
 
-8. Refresh the repository
+7. Refresh the repository
 
 ![refresh](swifty-images/swifty_6.png)
 
-9. Hit download after Swifty has fetched all the repository information.
+8. Hit download after Swifty has fetched all the repository information.
