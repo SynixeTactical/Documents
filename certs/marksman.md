@@ -15,6 +15,7 @@
 - HK417 DMR
 - 7.62mm 20Rnd Mag (M993 AP)
 - Hensoldt ZO
+- No equipment capable of range finding
 
 ### Round 1
 
