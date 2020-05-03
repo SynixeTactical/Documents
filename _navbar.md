@@ -23,7 +23,7 @@
   * [Grenadier](certs/grenadier.md)
   * [Medic](certs/medic.md)
   * [EOD](certs/eod.md)
-  * [Marksman](guides/marksman)
+  * [Marksman](certs/marksman)
   * [Driving](certs/driving.md)
   * [Navigation](certs/navigation.md)
   * [Leadership](certs/leadership.md)
