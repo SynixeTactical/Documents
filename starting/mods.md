@@ -12,7 +12,7 @@ If you already have the Synixe mods, skip to step 3. You will need to add a sepe
 
 ![add repo](swifty-images/swifty_1.png)
 
-4. Enter `https://tac.synixe.com/repo` as the repo address
+4. Enter `https://tac.synixe.com/repo/` as the repo address
 
 ![enter address](swifty-images/swifty_2.png)
 
