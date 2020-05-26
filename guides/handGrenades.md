@@ -90,7 +90,7 @@ Two additional keybinds are added in two different modes to assist with grenade 
     - If a dot is green it means the grenade is expected to his the ground at the green dot.
     - If a dot is yellow it means the dot will encounter be going through a closed space (like a window or doorway) and may hit a ledge and change direction.
    ![Good grenade](grenadeImages/goodNadeWindow.jpg) 
-    - If a dot is red, it means that at that dot (distance) the grenade will encounter a hard object and not be able to pass (like a wall).
+    - If a dot is red, it means that at that point in the arc the grenade will encounter a hard object and not be able to pass (like a wall).
    ![Bad Nade](grenadeImages/badNade.jpg) 
 
     - Keybinds from here:
