@@ -94,7 +94,7 @@ Two additional keybinds are added in two different modes to assist with grenade 
    ![Bad Nade](grenadeImages/badNade.jpg) 
 
     - Keybinds from here:
-        - Shift + G - Continue cycling through grenades 
+        - Shift + G - Cycle through grenades 
         - LMB - Throw the grenade 
         - RMB - Cancel and back out of the menue 
         - MMB (Scroll) - Change the arc/throw distance. 
