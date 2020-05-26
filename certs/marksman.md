@@ -1,4 +1,4 @@
-# Marksman Certification
+# Marksman I Certification
 
 ## Instructors
 
@@ -7,6 +7,8 @@
 ## Requirements
 
 - Junior Member or higher
+- Required Reading:
+  - [Scopes Guide](guides/scopes.md)
 
 ## Practical Exam
 
