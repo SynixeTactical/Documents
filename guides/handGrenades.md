@@ -12,7 +12,7 @@ Completing the certification for hand grenades will unlock the usage of fragment
 
 ### Callouts
 
-Similar to throwing a grenade, every time you toss a grenade, a call should be made over proximity voice. The call should be in the format:
+Every time you toss a grenade, a call should be made over proximity voice. The call should be in the format:
 
 > [Frag|Flash|Smoke] out. [Direction]
 
