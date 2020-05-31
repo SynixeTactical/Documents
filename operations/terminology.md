@@ -102,4 +102,4 @@
 1. A term denoting that friendly fire ocurred. 
 
 ### Blue Flagging 
-1. A term describing sweeping your barrel across a friendly in your path. This should never happen.appen.en.iendly in your path. This should never happen.d never happen.
+1. A term describing sweeping your barrel across a friendly in your path. This should _never_ happen.
