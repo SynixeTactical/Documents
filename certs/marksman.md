@@ -1,4 +1,4 @@
-# Marksman Certification
+# Marksman I Certification
 
 ## Instructors
 
@@ -7,6 +7,8 @@
 ## Requirements
 
 - Junior Member or higher
+- Required Reading:
+  - [Scopes Guide](guides/scopes.md)
 
 ## Practical Exam
 
@@ -14,7 +16,7 @@
 
 - HK417 DMR
 - 7.62mm 20Rnd Mag (M993 AP)
-- Hensoldt ZO
+- Elcan SpecterDR 1x/4x
 - No equipment capable of range finding
 
 ### Round 1

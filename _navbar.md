@@ -17,6 +17,7 @@
   * [Radios](guides/radios.md)
   * [Medic](guides/medic.md)
   * [EOD](guides/eod.md)
+  * [Scopes](guides/scopes)
   * [Marksman](guides/marksman)
 
 * Certifications
