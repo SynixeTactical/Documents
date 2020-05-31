@@ -24,17 +24,17 @@ Examples:
 
 The call out should not slow down your ability to respond to threats. At a minimum you must always call out "[Grenade Type] Out!"
 
-If the employment of the grenade fails, the thrower should immediately alert the other operators in his vicinity.
+If the employment of the grenade fails, the thrower should immediately alert the other operators in his vicinity. When calling a bad grenade toss, the direction **must** be included in the call.
 
 Example:
 
-> Bad 'nade!
-> Bad frag!
-> Bad stun! Get down!
+> Bad 'nade! South West!
+> Bad frag! North!
+> Bad stun! East1
 
 ### Risks of Use
 
-When firing throwing fragmentation grenades, you need to know the impact radius and fragmentation radius to maximize injury on the enemy and reduce friendly injuries.
+When throwing fragmentation grenades, you need to know the impact radius and fragmentation radius to maximize injury on the enemy and reduce friendly injuries.
 
 The approximate lethality of an M67 fragmentation grenade is:
 
@@ -48,14 +48,14 @@ Due to this risk, proper employment should always consist of throwing the grenad
 
 #### Vehicles
 
-It is possible for fragmentation grenades to disable vehicles, however they would need to be right on top of the grenade.
+It is possible for fragmentation grenades to disable civilian or unarmored vehicles, however, they would need to be right on top of the grenade.
 It is best practice to exhaust all other means of disabling a vehicle before attempting to throw a frag.
 
 #### Buildings
 
 Fragmentation and stun grenades are most effective when used in enclosed spaces due to the overpressure of the enclosed area along with the shrapnel caused by the fragmentation.
-A stun or fragmentation grenade should be chosen accordingly based on whether on-combatants are inside of the room/building.
-If they are, a stun is preferred.
+A stun or fragmentation grenade should be chosen accordingly based on whether non-combatants are inside of the room/building.
+If they are a stun is preferred.
 
 ### Grenade Types
 
@@ -81,13 +81,16 @@ If they are, a stun is preferred.
 ACE throwing makes grenades easier to use in Arma 3.
 Two additional keybinds are added in two different modes to assist with grenade usage, as well as a HUD element.
 
-#### ACE Throwing Keybinds
+Operators should always endeavor to use ACE Throwing as it allows for more accurate employment of the weapons.
+When throwing a grenade through a window, the operator should ensure the window is broken first. Otherwise the grenade will not go through and instead bounce back at the operator's feet. 
+
+#### Keybinds
 
 - Shift + G
   - Pulls up ACE throwing. You will see the current grenade type, as well as a small keymap along with multiple dots in an arc fashion.
   - The dots represent the path of the grenade.
   - If a dot is green it means the grenade is expected to his the ground at the green dot.
-  - If a dot is yellow it means the dot will encounter be going through a closed space (like a window or doorway) and may hit a ledge and change direction.
+  - If a dot is yellow it means the dot will encounter be going through a closed space and may hit a ledge and change direction (like a window or doorway).
   ![Good grenade](images/grenades-good.jpg)
   - If a dot is red, it means that at that point in the arc the grenade will encounter a hard object and not be able to pass (like a wall).
   ![Bad Nade](images/grenades-bad.jpg)
@@ -99,8 +102,3 @@ Two additional keybinds are added in two different modes to assist with grenade 
   - MMB (Scroll) - Change the arc/throw distance
   - MMB (Click) - Pull the pin and release the spoon, 'cooking' the grenade. This is very dangerous and the operator should be aware of the grenades approximate fuze times.
   - Ctrl + G - Changes the throw mode to a drop. Useful if you have a broken window and just want to drop the grenade on the other side. Or if you want to drop the grenade down a hatch at your feet.
-
-#### ACE Throwing Usage
-
-Operators should always endeavor to use ACE Throwing as it allows for more accurate employment of the weapons.
-If throwing the grenade through a window, the operator should ensure the window is broken first. Otherwise the grenade may not go through and instead bounce back at the operator's feet.
