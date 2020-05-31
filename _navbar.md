@@ -13,6 +13,7 @@
 
 * Guides
   * [Operator](guides/operator.md)
+  * [Grenades](guides/grenades.md)
   * [Grenadier](guides/grenadier.md)
   * [Radios](guides/radios.md)
   * [Medic](guides/medic.md)
@@ -21,6 +22,7 @@
   * [Marksman](guides/marksman)
 
 * Certifications
+  * [Grenades](certs/grenades.md)
   * [Grenadier](certs/grenadier.md)
   * [Medic](certs/medic.md)
   * [EOD](certs/eod.md)
