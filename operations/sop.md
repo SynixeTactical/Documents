@@ -39,7 +39,7 @@ Operators are not allowed to be deployed without meeting these requirements. You
 
 ### Weight
 
-Weight is an important factor to consider, do not bring unnessacary equipment that will slow you down, this puts your team at risk by reducing the ability to react and adapt to the changing battlefield.
+Weight is an important factor to consider, do not bring unnecessary equipment that will slow you down, this puts your team at risk by reducing the ability to react and adapt to the changing battlefield.
 
 ## Operation Stages
 
@@ -49,11 +49,11 @@ The mission maker or operation lead will go over the provided intel, ROE, and co
 
 ### Planning
 
-The operation lead will draw up plans for the opteration, covering vehicle convoys, waypoints, rallypoints, points of interest, etc. The operation lead is responsible for the delegation of duties to the SLs.
+The operation lead will draw up plans for the operation, covering vehicle convoys, waypoints, rallypoints, points of interest, etc. The operation lead is responsible for the delegation of duties to the SLs.
 
 ### Team Briefing
 
-The operation lead and SLs will brief everyone, covering intel, ROE, completion requirements, responsibilies of each team, and any planned movements.
+The operation lead and SLs will brief everyone, covering intel, ROE, completion requirements, responsibilities of each team, and any planned movements.
 
 ### Spot Check
 
@@ -69,7 +69,7 @@ Every SL will go through their squad's timeline of events, goals, and outcomes. 
 
 Each leader should cover:
 
-1. What happend
+1. What happened
 2. What was done well
 3. What could be improved
 4. Were any lessons learned for the future
@@ -97,7 +97,7 @@ Each pair should have a "primary", the person responsible for responding for tha
 
 #### Specialized Units
 
-Squads should try to spread out specialized units when possible. Having too many specialized units in a squad reduces the ability to adapt to a wide range of combat scenarios. Specialized operators should be paired with non-specialized operators. Ultimately the organization of the pairs is up to the mission requirements determined by the SL. Each squad should try to follow the specified limits unless dicated otherwise by the mission.
+Squads should try to spread out specialized units when possible. Having too many specialized units in a squad reduces the ability to adapt to a wide range of combat scenarios. Specialized operators should be paired with non-specialized operators. Ultimately the organization of the pairs is up to the mission requirements determined by the SL. Each squad should try to follow the specified limits unless dictated otherwise by the mission.
 
 - 1 Medic
 - 1 EOD / Engineer / UAV Operator
@@ -126,7 +126,7 @@ At least 40% of a squad must be non-specialized operators. Squads should aim for
 
 The standard radio used by Synixe Tactical is the AN/PRC-148.
 
-Every squad is on it's own channel. Pairs may optionally carry an AN/PRC-343, but it is not required and should be avoided in most cases. Proximity voice is the preffered communication method for pairs, as they should never be outside of vocal range.
+Every squad is on it's own channel. Pairs may optionally carry an AN/PRC-343, but it is not required and should be avoided in most cases. Proximity voice is the preferred communication method for pairs, as they should never be outside of vocal range.
 
 When multiple squads are present, squad leaders may carry either an AN/PRC-148 or an AN/PRC-117F if required by the mission.
 

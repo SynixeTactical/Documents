@@ -40,7 +40,7 @@ Regardless of range there is always a chance of being hit by a piece of shrapnel
 
 #### Vehicles
 
-Civilian and unarmoured vehicles can be disabled with 1 or 2 hits from an UGL to the engine or body. Most wheels can be destroyed with a single UGL hit. UGL HE rounds are ineffective against armoured targets, but can be effective against dismounting personnel.
+Civilian and unarmored vehicles can be disabled with 1 or 2 hits from an UGL to the engine or body. Most wheels can be destroyed with a single UGL hit. UGL HE rounds are ineffective against armoured targets, but can be effective against dismounting personnel.
 
 #### Danger Close
 

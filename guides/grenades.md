@@ -82,7 +82,7 @@ ACE throwing makes grenades easier to use in Arma 3.
 Two additional keybinds are added in two different modes to assist with grenade usage, as well as a HUD element.
 
 Operators should always endeavor to use ACE Throwing as it allows for more accurate employment of the weapons.
-When throwing a grenade through a window, the operator should ensure the window is broken first. Otherwise the grenade will not go through and instead bounce back at the operator's feet. 
+When throwing a grenade through a window, the operator should ensure the window is broken first. Otherwise the grenade will not go through and instead bounce back at the operator's feet.
 
 #### Keybinds
 
@@ -98,7 +98,7 @@ When throwing a grenade through a window, the operator should ensure the window 
 - Keybinds from here:
   - Shift + G - Cycle through grenades
   - LMB - Throw the grenade
-  - RMB - Cancel and back out of the menue
+  - RMB - Cancel and back out of the menu
   - MMB (Scroll) - Change the arc/throw distance
   - MMB (Click) - Pull the pin and release the spoon, 'cooking' the grenade. This is very dangerous and the operator should be aware of the grenades approximate fuze times.
   - Ctrl + G - Changes the throw mode to a drop. Useful if you have a broken window and just want to drop the grenade on the other side. Or if you want to drop the grenade down a hatch at your feet.
