@@ -19,7 +19,9 @@ Every time you toss a grenade, a call should be made over proximity voice. The c
 Examples:
 
 > Frag Out! North!
-> Stun Out! South-East!  
+
+> Stun Out! South-East!
+
 > Smoke Out! West!
 
 The call out should not slow down your ability to respond to threats. At a minimum you must always call out "[Grenade Type] Out!"
@@ -29,8 +31,10 @@ If the employment of the grenade fails, the thrower should immediately alert the
 Example:
 
 > Bad 'nade! South West!
+
 > Bad frag! North!
-> Bad stun! East1
+
+> Bad stun! East!
 
 ### Risks of Use
 

@@ -18,9 +18,11 @@ Similar to throwing a grenade, every time you discharge a UGL a call should be m
 
 Examples
 
-> HE Out. North. 150m.  
-> 2 HE Out. 1-6-0. 200m.  
-> 1 Smoke Out. South-East. 100m.  
+> HE Out. North. 150m.
+
+> 2 HE Out. 1-6-0. 200m.
+
+> 1 Smoke Out. South-East. 100m.
 
 The call out should not slow down your ability to respond to threats. At a minimum you must always call out "HE Out".
 
