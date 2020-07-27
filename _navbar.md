@@ -19,6 +19,7 @@
 
 * Certifications
   * [Grenades](certs/grenades.md)
+  * [Scopes](certs/scopes.md)
   * [Grenadier](certs/grenadier.md)
   * [Autorifleman](certs/autorifleman.md)
   * [Marksman](certs/marksman)
