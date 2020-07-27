@@ -10,7 +10,7 @@ Teamwork is everything. Working problems as a team is what leads to successful o
 
 ### Required
 
-Operators are not allowed to be deployed without meeting these requirements. Your element leader may impose additional requirements should the mission dictate additional equipment.
+Operators are not allowed to be deployed without meeting these requirements. Your EL may impose additional requirements should the mission dictate additional equipment.
 
 - Uniform
 - Primary or Secondary weapon
@@ -57,7 +57,7 @@ The operation lead and ELs will brief everyone, covering intel, ROE, completion 
 
 ### Spot Check
 
-Element Leaders will check every member of their element for radios, ammo, medical equipment, special equipment, and any mission specific requirements. Before completing the spot check, every operator should know their buddy and color, the responsibilities of their element in addition to the overall plan.
+ELs will check every member of their element for radios, ammo, medical equipment, special equipment, and any mission specific requirements. Before completing the spot check, every operator should know their buddy and color, the responsibilities of their element in addition to the overall plan.
 
 ### Operation
 
@@ -80,9 +80,9 @@ The mission is officially over at this point, and the conversation is open for a
 
 ## Composition
 
-Each mission must have an operation lead.
+Each mission must have an Operation Lead (OL).
 
-The operation lead is responsible for dividing up members into elements.
+The OL is responsible for dividing up members into elements.
 
 ### Squad Composition
 
@@ -90,13 +90,13 @@ For the overwhelming number of contracts all contractors will be in one squad. A
 
 #### Roles
 
-**Operation Lead**  
+**Operation Lead (OL)**  
 Responsible for setting the objectives for the squad. Responsible for keeping track of each element's progress and coordinating multi-element maneuvers.
 
-**Element Leader**
+**Element Leader (EL)**  
 Responsible for planning and executing their elements movements as part of the OL's set objectives.
 
-**Primary**
+**Primary**  
 Responsible for responding for a team on the element radio.
 
 #### Example Structures
@@ -119,7 +119,7 @@ Each team should have a "primary", the person responsible for responding for tha
 
 #### Specialized Units
 
-Elements should try to spread out specialized units when possible. Having too many specialized units in a squad reduces the ability to adapt to a wide range of combat scenarios. Specialized operators should be paired with non-specialized operators. Ultimately the organization of the teams is up to the mission requirements determined by the TL. Each squad should try to follow the specified limits unless dictated otherwise by the mission.
+Elements should try to spread out specialized units when possible. Having too many specialized units in a squad reduces the ability to adapt to a wide range of combat scenarios. Specialized operators should be paired with non-specialized operators. Ultimately the organization of the teams is up to the mission requirements determined by the OL. Each squad should try to follow the specified limits unless dictated otherwise by the mission.
 
 - 1 Medic
 - 1 EOD / Engineer / UAV Operator
@@ -133,14 +133,14 @@ At least 40% of a element must be non-specialized operators. Elements should aim
 
 | Primary      |              || Primary      |              || Primary      |              |
 |--------------|--------------||--------------|--------------||--------------|--------------|
-| Element Lead | Operator     || Element Lead | Operator     || Element Lead | Operator     |
+| EL           | Operator     || EL           | Operator     || EL           | Operator     |
 | Operator     | Autorifleman || Operator     | Autorifleman || Operator     | EOD          |
 | Operator     | Marksman     || Operator     | Medic        || Operator     | Operator     |
 | Operator     | Medic        ||              |              || Operator     | Medic        |
 
 | Primary      |              || Primary      |              || Primary      |              |
 |--------------|--------------||--------------|--------------||--------------|--------------|
-| Element Lead | Engineer     || Element Lead | Autorifleman || Element Lead | UAV Operator |
+| EL           | Engineer     || EL           | Autorifleman || EL           | UAV Operator |
 | Operator     | Autorifleman || Operator     | Marksman     || Operator     | Marksman     |
 | Operator     | Medic        || Operator     | Marksman     ||
 
