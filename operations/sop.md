@@ -45,15 +45,15 @@ Weight is an important factor to consider, do not bring unnecessary equipment th
 
 ### Intel Briefing
 
-The mission maker or operation lead will go over the provided intel, ROE, and completion requirements.
+The mission maker or OL will go over the provided intel, ROE, and completion requirements.
 
 ### Planning
 
-The operation lead will draw up plans for the operation, covering vehicle convoys, waypoints, rallypoints, points of interest, etc. The operation lead is responsible for the delegation of duties to the ELs.
+The OL will draw up plans for the operation, covering vehicle convoys, waypoints, rallypoints, points of interest, etc. The OL is responsible for the delegation of duties to the ELs.
 
 ### Element Briefing
 
-The operation lead and ELs will brief everyone, covering intel, ROE, completion requirements, responsibilities of each element, and any planned movements.
+The OL and ELs will brief everyone, covering intel, ROE, completion requirements, responsibilities of each element, and any planned movements.
 
 ### Spot Check
 
