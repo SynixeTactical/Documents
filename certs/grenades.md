@@ -3,10 +3,11 @@
 ## Instructors
 
 - Brett
+- R3ign
 
 ## Requirements
 
-- Junior Member or higher
+- Junior Member
 - Reading:
   - [Grenade Guide](guides/grenades.md)
 

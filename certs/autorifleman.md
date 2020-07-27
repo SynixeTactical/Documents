@@ -1,4 +1,4 @@
-# Grenade Certification
+# Autorifleman Certification
 
 ## Instructors
 

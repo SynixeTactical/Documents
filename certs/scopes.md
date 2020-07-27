@@ -1,4 +1,4 @@
-# Grenade Certification
+# Scopes Certification
 
 ## Instructors
 
