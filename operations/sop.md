@@ -94,7 +94,7 @@ For the overwhelming number of contracts all contractors will be in one squad. A
 Responsible for setting the objectives for the squad. Responsible for keeping track of each element's progress and coordinating multi-element maneuvers.
 
 **Element Leader**
-Responsible for planning and executing their elements movement's as part of the OL's set objectives.
+Responsible for planning and executing their elements movements as part of the OL's set objectives.
 
 **Primary**
 Responsible for responding for a team on the element radio.
