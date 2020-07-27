@@ -7,7 +7,7 @@
 ## Requirements
 
 - Junior Member or higher
-- Required Reading:
+- Reading:
   - [Grenade Guide](guides/grenades.md)
 
 ## Theoretical Exam

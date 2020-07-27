@@ -6,8 +6,8 @@
 
 ## Requirements
 
-- Junior Member or higher
-- Required Reading:
+- Member or higher
+- Reading:
   - [Grenadier Guide](guides/grenadier.md)
 
 ## Theoretical Exam

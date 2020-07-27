@@ -12,21 +12,13 @@
   * [SOP](operations/sop.md)
 
 * Guides
-  * [Operator](guides/operator.md)
   * [Grenades](guides/grenades.md)
   * [Grenadier](guides/grenadier.md)
-  * [Radios](guides/radios.md)
-  * [Medic](guides/medic.md)
-  * [EOD](guides/eod.md)
-  * [Scopes](guides/scopes)
-  * [Marksman](guides/marksman)
+  * [Scopes](guides/scopes.md)
+  * [Autorifleman](guides/autorifleman.md)
 
 * Certifications
   * [Grenades](certs/grenades.md)
   * [Grenadier](certs/grenadier.md)
-  * [Medic](certs/medic.md)
-  * [EOD](certs/eod.md)
+  * [Autorifleman](certs/autorifleman.md)
   * [Marksman](certs/marksman)
-  * [Driving](certs/driving.md)
-  * [Navigation](certs/navigation.md)
-  * [Leadership](certs/leadership.md)

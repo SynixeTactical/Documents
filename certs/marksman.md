@@ -6,8 +6,8 @@
 
 ## Requirements
 
-- Junior Member or higher
-- Required Reading:
+- Junior Member
+- Certifications:
   - [Scopes Guide](guides/scopes.md)
 
 ## Practical Exam
