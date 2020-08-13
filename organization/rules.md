@@ -24,7 +24,7 @@
 
 4. Names should be easily pronounceable so people can easily address you on voice comms.
 
-5. Names must be unique within Synixe Tactical.
+5. Names must be unique within Synixe Contractors.
 
 6. Names must be consistent across all platforms. This helps people learn who is who.
 
@@ -71,7 +71,7 @@ Reposting content that you have previously posted is not allowed and may be remo
 
 1. Any deliberate action or attempt to enhance your gameplay or to give yourself an unfair advantage will not be tolerated and will result in a minimum of removal from the current game.
 
-2. Any modification of game files or additional modifications outside of what is required by Synixe Tactical will not be tolerated and will result in a minimum of removal from the current game.
+2. Any modification of game files or additional modifications outside of what is required by Synixe Contractors will not be tolerated and will result in a minimum of removal from the current game.
 
 3. Any attempt to gain access to administrative tools will result in an immediate ban.
 
@@ -83,7 +83,7 @@ All members are free to participate in the other communities.
 
 ## Rule 7 - Conduct
 
-All members of Synixe Tactical are expected to treat their fellow members in a considerate way at all times. Disagreements are fine, hostility is not. Disruptive behavior or any action that degrades the quality of the community for other members at the discretion of the staff will not be tolerated and can be treated as a violation of Section 3.
+All members of Synixe Contractors are expected to treat their fellow members in a considerate way at all times. Disagreements are fine, hostility is not. Disruptive behavior or any action that degrades the quality of the community for other members at the discretion of the staff will not be tolerated and can be treated as a violation of Section 3.
 
 We are a casual realism unit. We have no attendance requirements, mandatory training or strict procedures. We do however expect that you take the mission seriously and attempt to complete objectives tactically.
 

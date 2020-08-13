@@ -16,7 +16,7 @@ If you already have the Synixe mods, skip to step 3. You will need to add a sepe
 
 ![enter address](swifty-images/swifty_2.png)
 
-5. Name the repo `Synixe [Tactical]`, select a folder anywhere on your computer you want the mods to be stored. If you have the Synixe mods, choose the existing folder to avoid downloading the mods twice.
+5. Name the repo, select a folder anywhere on your computer you want the mods to be stored. If you have the Synixe mods, choose the existing folder to avoid downloading the mods twice.
 
 ![details](swifty-images/swifty_3.png)
 
