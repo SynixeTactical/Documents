@@ -6,7 +6,7 @@
 
 ## Requirements
 
-- Member or higher
+- Junior Member
 - Reading:
   - [Grenadier Guide](guides/grenadier.md)
 

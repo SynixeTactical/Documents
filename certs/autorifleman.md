@@ -6,11 +6,11 @@
 
 ## Requirements
 
-- Member
+- Junior Member
 - Certifications:
   - [Scopes](guides/scopes.md)
 - Reading:
-  - [Autoriflman Guide](guides/autorifleman.md)
+  - [Autorifleman Guide](guides/autorifleman.md)
 
 ## Practical Exam
 

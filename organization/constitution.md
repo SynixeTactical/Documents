@@ -1,12 +1,12 @@
-# Constitution of the Synixe Tactical Community
+# Constitution of Synixe Contractors
 
 ## Section 1 - Name
 
-The name of this organization shall be "Synixe Tactical Community", in shorthand and hereby referred to as "Synixe Tactical". Synixe is to be pronounced as IPA: /sɪnɪks/
+The name of this organization shall be "Synixe Contractors Community". Synixe is to be pronounced as IPA: /sɪnɪks/
 
 ## Section 2 - Purpose
 
-The purpose of Synixe Tactical is to provide a relaxed, fair and organized environment for an online community.
+The purpose of Synixe Contractors is to provide a relaxed, fair and organized environment for an online community.
 This constitution shall be used to keep the organization committed to that goal and shall not be changed in such a way that compromises that core value.
 
 ## Section 3 - Membership
@@ -23,9 +23,10 @@ There are four different stages of active membership.
 - Senior Member
 
 ### 3.2 - Gaining Membership
-Any person wishing to join Synixe Tactical will be able to join as a recruit.
 
-Persons interested in joining Synixe Tactical will become a Junior Member after attending 3 sanctioned events. The person must then go through a minimum 3 month probabtion period. After this period as a Junior Member, the Senior Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
+Any person at the age of 16 or older wishing to join Synixe Contractors will be able to join as a recruit.
+
+Persons interested in joining Synixe Contractors will become a Junior Member after attending 2 sanctioned events. The person must then go through a minimum 3 month probabtion period. After this period as a Junior Member, the Senior Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
 
 ### 3.3 - Senior Members
 
@@ -33,7 +34,7 @@ Members can become a senior member after a period of 6 months after becoming a m
 
 ### 3.4 - Staff
 
-Senior Members that contribute to the continued success of the community may be selected by existing Staff Members to assit with the managing of the community.
+Senior Members that contribute to the continued success of the community may be selected by existing Staff Members to assist with the managing of the community.
 
 ### 3.5 - Temporary Leave
 
@@ -45,7 +46,7 @@ A member may be assigned Inactive if they have not attended a sanctioned event f
 
 ### 3.7 Removal
 
-All members are permitted a single warning for breaking a rule. A member may be removed by a Staff Member on the second occurance of rule breaking.
+All members are permitted a single warning for breaking a rule. A member may be removed by a Staff Member on the second occurrence of rule breaking.
 
 ### 3.8 - Gross Misconduct
 
@@ -103,7 +104,7 @@ A majority vote of all present non-Junior members is required to pass any propos
 
 ### 4.5 - Constitutional Amendments
 
-A constitutional amendment is any proposed change to this document. Two-thirds of all non-Junior members are required to pass a constitutional ammendment.
+A constitutional amendment is any proposed change to this document. Two-thirds of all non-Junior members are required to pass a constitutional amendment.
 
 - Any member absent will be counted in the vote as "not present".
 - Any member can abstain from voting and will not be counted.
@@ -111,5 +112,5 @@ A constitutional amendment is any proposed change to this document. Two-thirds o
 
 ### 4.6 - Tabling
 
-- A motion to table can be passed by a one-third vote on the first occurence.
+- A motion to table can be passed by a one-third vote on the first occurrence.
 - All motions to table thereafter require a majority.
