@@ -16,6 +16,7 @@
   * [Grenadier](guides/grenadier.md)
   * [Scopes](guides/scopes.md)
   * [Autorifleman](guides/autorifleman.md)
+  * [LAT](guides/lat.md)
 
 * Certifications
   * [Grenades](certs/grenades.md)
@@ -23,3 +24,4 @@
   * [Grenadier](certs/grenadier.md)
   * [Autorifleman](certs/autorifleman.md)
   * [Marksman](certs/marksman)
+  * [LAT](certs/lat.md)
