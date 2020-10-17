@@ -2,8 +2,10 @@
 
 ## Instructors
 
-- Brett
-- R3ign
+- Brett Harrison
+- Zeke Martin
+- Arsey Johnson
+- Andrew Forest
 
 ## Requirements
 
