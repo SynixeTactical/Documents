@@ -28,7 +28,9 @@ After you've setup your radio, refer to your Element Leader or the map for which
 
 ## Buddy 
 
-After you've got your team set, you'll need your battle buddy. Typically they will be your teammate (2 operators per team), however setting them as your buddy just helps you keep track of them in game. You do this by ACE interact on buddy > interactions > Assign Buddy 
+After you've got your team set, you'll need your battle buddy. Typically they will be your teammate (2 operators per team), however setting them as your buddy just helps you keep track of them in game. You do this by ACE interact on buddy > interactions > Assign Buddy.
 
 ![Buddy](images/buddy.jpg)
+
+
 
