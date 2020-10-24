@@ -5,7 +5,7 @@
 
 * Getting Started
   * [Mods](starting/mods.md)
-  * [Your First Mission](starting/first-mission.md)
+  * [Your First Mission](operations/first-mission.md)
 
 * Operations
   * [Terminology](operations/terminology.md)
