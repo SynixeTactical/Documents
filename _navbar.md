@@ -17,6 +17,7 @@
   * [Scopes](guides/scopes.md)
   * [Autorifleman](guides/autorifleman.md)
   * [LAT](guides/lat.md)
+  * [Helicopter Signalling](guides/helicopter_signal.md)
 
 * Certifications
   * [Grenades](certs/grenades.md)
