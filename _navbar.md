@@ -12,12 +12,13 @@
   * [SOP](operations/sop.md)
 
 * Guides
+  * [Autorifleman](guides/autorifleman.md)
   * [Grenades](guides/grenades.md)
   * [Grenadier](guides/grenadier.md)
-  * [Scopes](guides/scopes.md)
-  * [Autorifleman](guides/autorifleman.md)
-  * [LAT](guides/lat.md)
   * [Helicopter Signalling](guides/helicopter_signal.md)
+  * [LAT](guides/lat.md)
+  * [Scopes](guides/scopes.md)
+  * [UAV Operator](guides/uav.md)
 
 * Certifications
   * [Grenades](certs/grenades.md)
