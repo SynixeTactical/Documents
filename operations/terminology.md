@@ -24,15 +24,15 @@
 
 ## Tactics
 
-### Target
-
-1. A potentially hostile enemy.
-    - Used to note a hostile in a particular bearing/range from the unit.
-
 ### Contact
 
+1. A potentially hostile enemy.
+    - Used to note a potential hostile in a particular bearing/range from the unit. This could be used for unknowns as well. 
+
+### Threat/Tango
+
 1. An enemy unit which is engaging friendlies.
-    - Contact is the natural progression of a target who has become aware of friendlies and begun engaging.
+    - Threat/tango is the natural progression of a contact who has become aware of friendlies and engagement.
 
 ### A.D.D.
 
