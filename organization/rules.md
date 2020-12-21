@@ -20,21 +20,19 @@
 
 2. Names should be clear and easy to read.
 
-3. Names can not exceed 4 syllables.
+3. Names must be in the First Last format.
 
-4. Names should be easily pronounceable so people can easily address you on voice comms.
+4. Names must be unique within Synixe Contractors.
 
-5. Names must be unique within Synixe Contractors.
+5. Names must be consistent across all platforms. This helps people learn who is who.
 
-6. Names must be consistent across all platforms. This helps people learn who is who.
+6. Names must not include ranks.
 
-7. Names should include an obvious 1 or 2 syllable shorter name within them.
+7. Names must not include phrases or words that could be misinterpreted during gameplay.
 
-8. Names must not include ranks.
+8. Names should not be changed once a member holds a position of Junior Member or higher.
 
-9. Names must not include phrases or words that could be misinterpreted during gameplay.
-
-10. Names should not be changed once a member holds a position of Helper or higher.
+9. Names must not be that of a household name.
 
 ## Rule 4 - Content
 
@@ -54,7 +52,7 @@ Content will be considered inappropriate at the discretion of the Moderators and
 
 ### 4.2 - Harassment
 
-Any form of content or interaction considered harassment at the discretion of the Moderators will not be tolerated.
+Any form of content or interaction considered harassment at the discretion of a moderator will not be tolerated.
 This includes but is not limited to:
 
 1. Spam messaging.
@@ -75,17 +73,17 @@ Reposting content that you have previously posted is not allowed and may be remo
 
 3. Any attempt to gain access to administrative tools will result in an immediate ban.
 
-4. The use of external communication platforms (Steam, Discord) is considered a violation of Rule 4.1 unless authorized by a staff member or a game master.
+4. The use of external communication platforms (Steam, Discord) is considered a violation of Rule 5.1 unless authorized by a staff member or a game master.
 
 ## Rule 6 - Dual Clanning
 
-All members are free to participate in the other communities.
+All members are free to participate in other communities. Staff members are asked not to hold staff positions in other Arma communities.
 
 ## Rule 7 - Conduct
 
 All members of Synixe Contractors are expected to treat their fellow members in a considerate way at all times. Disagreements are fine, hostility is not. Disruptive behavior or any action that degrades the quality of the community for other members at the discretion of the staff will not be tolerated and can be treated as a violation of Section 3.
 
-We are a casual realism unit. We have no attendance requirements, mandatory training or strict procedures. We do however expect that you take the mission seriously and attempt to complete objectives tactically.
+We are a casual realism unit. We have no attendance requirements or mandatory training. We do however expect that you take the mission seriously and attempt to complete objectives tactically.
 
 ### 7.1 - Team Killing
 
