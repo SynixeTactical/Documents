@@ -20,10 +20,10 @@
 
 6. Close the Repository Settings window
 
-![close](swifty-images/swifty_5.png)
+![close](swifty-images/swifty_4.png)
 
 7. Refresh the repository
 
-![refresh](swifty-images/swifty_6.png)
+![refresh](swifty-images/swifty_5.png)
 
 8. Hit download after Swifty has fetched all the repository information.
