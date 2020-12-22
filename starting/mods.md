@@ -1,7 +1,5 @@
 # Mods
 
-If you already have the Synixe mods, skip to step 3. You will need to add a seperate repo, this will not download common mods twice.
-
 ## Swifty
 
 1. Download Setup.exe from <https://getswifty.net>
@@ -12,11 +10,11 @@ If you already have the Synixe mods, skip to step 3. You will need to add a sepe
 
 ![add repo](swifty-images/swifty_1.png)
 
-4. Enter `https://tac.synixe.com/repo/` as the repo address
+4. Enter `https://repo.synixe.contractors` as the repo address
 
 ![enter address](swifty-images/swifty_2.png)
 
-5. Name the repo, select a folder anywhere on your computer you want the mods to be stored. If you have the Synixe mods, choose the existing folder to avoid downloading the mods twice.
+5. Name the repo and select a folder anywhere on your computer you want the mods to be stored.
 
 ![details](swifty-images/swifty_3.png)
 
