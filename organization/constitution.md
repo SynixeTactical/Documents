@@ -64,7 +64,7 @@ An assembly of members of the community that can result in a change to the organ
 
 ### 4.1 - Quarterly Meetings
 
-A meeting shall be held during the first month of every quarter unless a meeting was held in the 30 month. If a meeting has been held in the previous 30 days, a meeting must be held in the first 6 weeks.
+A meeting shall be held during the first month of every quarter unless a meeting was held in the last month. If a meeting has been held in the previous 30 days, a meeting must be held in the first 6 weeks.
 
 ### 4.2 - Calling a Meeting
 
