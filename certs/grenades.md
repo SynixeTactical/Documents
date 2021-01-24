@@ -5,7 +5,7 @@
 - Brett Harrison
 - Zeke Martin
 - Arsey Johnson
-- Andrew Forest
+- Andrew Forrest
 
 ## Requirements
 
