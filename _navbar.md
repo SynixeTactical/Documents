@@ -27,3 +27,4 @@
   * [Autorifleman](certs/autorifleman.md)
   * [Marksman](certs/marksman)
   * [LAT](certs/lat.md)
+  * [CSW](certs/csw.md)
