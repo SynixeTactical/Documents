@@ -9,7 +9,7 @@
 
 - Junior Member
 - Reading:
-  - [CSW Guide](guides/CSW.md)
+  - [CSW Guide](guides/csw.md)
 
 ## Theoretical Exam
 
