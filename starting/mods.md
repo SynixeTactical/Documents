@@ -27,3 +27,12 @@
 ![refresh](swifty-images/swifty_5.png)
 
 8. Hit download after Swifty has fetched all the repository information.
+
+9. Open the swifty settings
+
+![settings](swifty-images/swifty_6.png)
+
+
+10. Select the folder on your computer where your Arma 3 installation is located
+
+![arma path](swifty-images/swifty_7.png)
