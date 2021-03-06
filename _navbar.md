@@ -17,6 +17,7 @@
   * [Grenadier](guides/grenadier.md)
   * [Helicopter Signalling](guides/helicopter_signal.md)
   * [LAT](guides/lat.md)
+  * [CSW](guides/csw.md)
   * [Scopes](guides/scopes.md)
   * [UAV Operator](guides/uav.md)
 
@@ -27,3 +28,4 @@
   * [Autorifleman](certs/autorifleman.md)
   * [Marksman](certs/marksman)
   * [LAT](certs/lat.md)
+  * [CSW](certs/csw.md)
