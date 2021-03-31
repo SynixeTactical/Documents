@@ -4,7 +4,7 @@
 
 An LAT rifleman is a semi-specialized operator class, and is not considered a standard operator. It can only be combined with the following specialized roles:
 
-- Marksman 1
+- Marksman
 - Leadership
 
 The primary role of the LAT rifleman is to eliminate light vehicle threats.
@@ -29,10 +29,10 @@ When you begin to prepare the weapon you must make a callout of "Clear Back - [D
 
 Examples
 
-> *LAT*: Clear back - East  
-> *Rifleman*: Clear Clear Clear  
+> *LAT*: Clear back - East
+> *Rifleman*: Clear Clear Clear
 > *LAT*: Rocket out
 
-> *LAT*: Clear back - North West  
-> *Rifleman*: Clear Clear Clear  
+> *LAT*: Clear back - North West
+> *Rifleman*: Clear Clear Clear
 > *LAT*: Cancel Cancel Cancel, vehicle moved away
