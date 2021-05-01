@@ -15,6 +15,6 @@ At each range, the width of the horizontal aiming mark represents 19” or 48.26
 
 ![elcan](images/scopes-elcan-torso.png)
 
-The Elcan SpecterDR has a ranging table based on 30 inches or 76 cm. This is the height of the average male from the top of their head to their hip at the indicated distance.
+The Elcan SpecterDR has a ranging table based on 30 inches or 76 cm. This is the height of the average male from the top of their head to their waist at the indicated distance.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/chMaJlaAcb0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
