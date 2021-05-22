@@ -54,6 +54,11 @@ Within the Medical Menu there are 7 tabs under the `Examine & Treatment` tab. Th
 
 ## Usage
 
+Performing aid can be broken down into the acronym ABC, standing for Airway, Breathing, Circulation.
+  * Begin by performing [Airway Management](###airway-management) to remove any obstructions
+  * Follow with ensuring their airways are clear by insering a guedel tube
+  * Lastly perform [Wound Treatment](###wound-treatment) and, if instructed, perform CPR.
+
 ### Airway Management
 
 Managing airways is crucial to keeping your partner alive until the dedicated Medic(s) can arrive. Managing airways consists of:
@@ -81,3 +86,13 @@ The primary purpose for Combat Aid is to quickly treat each other's wounds durin
     * Afterwards begin bandaging remaining limbs, the section will turn white once no more bandaging is needed
     * Splits may be applied at this time if teammate is conscious
     * Lastly call for a Medic to complete medical treatment
+
+
+### MIST Report
+
+A MIST report is used to quickly convey the status of a downed teammate to the medic on site.
+
+* **Mechanism**: What was the cause of injury; Speed, Mass, Height, Restraints, Number/Type of collisions, Weapon Type
+* **Injuries**: What injuries have been caused; Backblast, Grenade, Bullet Wounds, etc.
+* **Symptoms and Vitals**: Current status of the patient; Heart Rate, Blood Pressure, Airways, etc.
+* **Treatments**: What aid has been applied; Bandages, Tourniquet, Splints, etc.
