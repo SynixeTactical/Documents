@@ -59,6 +59,8 @@ Performing aid can be broken down into the acronym ABC, standing for Airway, Bre
   * Follow with ensuring their airways are clear by insering a guedel tube
   * Lastly perform [Wound Treatment](###wound-treatment) and, if instructed, perform CPR.
 
+As a rifleman providing aid, once a Medic is on site if you are not instructed to perform an act of medical then it is no longer your responsibility.
+
 ### Airway Management
 
 Managing airways is crucial to keeping your partner alive until the dedicated Medic(s) can arrive. Managing airways consists of:
