@@ -4,8 +4,6 @@
 
 - Brett Harrison
 - Andrew Forrest
-- Noah Curio
-- George Scoff
 
 ## Requirements
 
