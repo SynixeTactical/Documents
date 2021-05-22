@@ -20,6 +20,7 @@
   * [CSW](guides/csw.md)
   * [Scopes](guides/scopes.md)
   * [UAV Operator](guides/uav.md)
+  * [Medic](guides/medic.md)
 
 * Certifications
   * [Grenades](certs/grenades.md)
@@ -29,3 +30,4 @@
   * [Marksman](certs/marksman)
   * [LAT](certs/lat.md)
   * [CSW](certs/csw.md)
+  * [Medic](certs/medic.md)
